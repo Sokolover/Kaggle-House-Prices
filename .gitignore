@@ -3,7 +3,5 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
-
-sample_submission.csv
-test.csv
-train.csv
+gitignore/
+catboost_info/
